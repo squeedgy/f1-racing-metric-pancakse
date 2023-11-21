@@ -1,0 +1,8 @@
+name: f1-racing-simulation
+channels:
+  - defaults
+dependencies:
+  - python
+  - requests
+  - numpy
+  - pandas
